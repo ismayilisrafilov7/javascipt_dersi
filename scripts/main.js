@@ -75,3 +75,5 @@ do {
 } while(true)
 
 alert(result);
+
+var test = "test";
